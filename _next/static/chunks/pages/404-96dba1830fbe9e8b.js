@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[336],{39540:(n,_,e)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/404",function(){return e(93)}])},93:(n,_,e)=>{"use strict";e.r(_),e.d(_,{default:()=>u});var r=e(74848);function u(){return(0,r.jsx)("h1",{children:"404 - P\xe1gina no encontrada"})}}},n=>{var _=_=>n(n.s=_);n.O(0,[636,593,792],()=>_(39540)),_N_E=n.O()}]);
